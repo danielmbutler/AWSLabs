@@ -1,0 +1,1 @@
+AWS CloudFormation AMI Look Up Sample Template: Demonstrates how to dynamically specify an AMI ID. This template provisions an EC2 instance with an AMI ID that is based on the instance's type and region. **WARNING** This template creates an Amazon EC2 instance. You will be billed for the AWS resources used if you create a stack from this template.
